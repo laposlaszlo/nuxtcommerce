@@ -17,4 +17,7 @@ export default defineNuxtConfig({
       failOnError: false,
     },
   },
+  images: {
+    unoptimized: true,
+  },
 });
